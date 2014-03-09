@@ -15,7 +15,7 @@ module.exports = {
         if (id !== this.id) {
           send.apply(socket, args);
         }
-      });
+      }.bind(this));
     };
 
   }
