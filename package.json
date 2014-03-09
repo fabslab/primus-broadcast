@@ -1,0 +1,28 @@
+{
+  "name": "primus-broadcast",
+  "version": "1.0.0",
+  "description": "Adds socket.io style broadcast functionality to primus.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fsbdev/primus-broadcast.git"
+  },
+  "keywords": [
+    "primus",
+    "socketio",
+    "socket.io",
+    "broadcast",
+    "publish",
+    "websocket",
+    "realtime"
+  ],
+  "author": "Fabien Brooke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fsbdev/primus-broadcast/issues"
+  },
+  "homepage": "https://github.com/fsbdev/primus-broadcast"
+}
